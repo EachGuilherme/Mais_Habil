@@ -109,5 +109,5 @@ Este projeto foi gerado a partir do FlutterFlow e requer a configuração de um 
 
 ---
 
-**Desenvolvido por:** [Seu Nome/Usuário do GitHub]
+**Desenvolvido por:** [Guilherme Ramos de Lima]
 **Status:** Projeto de Portfólio (Exportado do FlutterFlow)
